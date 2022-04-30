@@ -1,5 +1,3 @@
-# Kevin Song
-
 # [NeuralNetworks](https://github.com/kevinsong-ml/NeuralNetworks)
 
 - AdaGradOptimizer.ipynb contains code implementing a custom AdaGrad neural network gradient descent optimizer from scratch.
