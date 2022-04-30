@@ -22,10 +22,10 @@
 
 - SongAnalytica.ipynb contains code that prototypes using a statistical model (XGBoost) to predict whether a U.S. president will win re-election, based on approval rating features. Inspired by the following [Wikipedia article](https://en.wikipedia.org/wiki/United_States_presidential_approval_rating)
 
-# [PyGames](https://github.com/kevinsong-ml/PyGames)
-
-- Flappy Frogger
-
 # [CodingProblems](https://github.com/kevinsong-ml/CodingProblems)
 
 - ValidPerfectSquare uses Newton's method to evaluate whether an integer is a perfect square, inspired by [this paper](https://math.mit.edu/~stevenj/18.335/newton-sqrt.pdf).
+
+# [PyGames](https://github.com/kevinsong-ml/PyGames)
+
+- Flappy Frogger
