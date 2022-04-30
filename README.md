@@ -1,5 +1,4 @@
 # Kevin Song
-## Data Science and Engineering Professional
 
 # [NeuralNetworks](https://github.com/kevinsong-ml/NeuralNetworks)
 
