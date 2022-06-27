@@ -9,6 +9,8 @@
 
 - MNIST contains code for implementing, training, and error-scoring a series of feedforward neural networks, in Keras, for recognizing handwritten MNIST digits (with a best macro average test F1 score of 97%).
 
+- tf_binding contains code for implementing and training a neural network for predicting the presence/absence of transcription factor binding sites in DNA fragments.
+
 # [MachineLearning](https://github.com/kevinsong-ml/MachineLearning)
 
 - RealEstatePrediction contains an encoded XGBoost regression model (trained with randomized grid search and 5-fold cross-validation) and an IPython notebook that implements code for predicting 2021 estimated full cash values from 2016-2020 housing data in the Tuscon, Arizona real estate market (test root mean squared error of $8,568 for a dataset of 101,661 homes).
