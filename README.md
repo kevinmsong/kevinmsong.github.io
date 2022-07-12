@@ -34,4 +34,3 @@
 # [PyGames](https://github.com/kevinsong-ml/PyGames)
 
 - FlappyFrogger
-
