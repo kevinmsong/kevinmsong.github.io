@@ -33,5 +33,5 @@
 
 # [PyGames](https://github.com/kevinsong-ml/PyGames)
 
-- Flappy Frogger
+- FlappyFrogger
 
