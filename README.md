@@ -3,11 +3,11 @@
 
 ### Interests
 
-- games
-- evolutionary biology
-- music
-- programming (since 2008)
-- sports
+- Games
+- Evolutionary Biology
+- Music
+- Programming (since 2008)
+- Sports
 
 ### [NeuralNetworks](https://github.com/kevinmsong/NeuralNetworks)
 
