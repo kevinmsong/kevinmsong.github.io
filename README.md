@@ -1,6 +1,14 @@
 # Kevin Song
 ## Software Architect
 
+### Interests
+
+- games
+- evolutionary biology
+- music
+- programming (since 2008)
+- sports
+
 ### [NeuralNetworks](https://github.com/kevinmsong/NeuralNetworks)
 
 - AdaGradOptimizer contains code implementing a custom AdaGrad neural network gradient descent optimizer from scratch.
