@@ -3,11 +3,11 @@
 
 ### Interests
 
-- coding sith lord (since 2008)
-- zen meditation practitioner
-- evolutionary biologist
-- table tennis athlete
-- violinist
+- programming (since 2008)
+- zen meditation
+- evolutionary biology
+- table tennis
+- violin
 
 ### [NeuralNetworks](https://github.com/kevinmsong/NeuralNetworks)
 
