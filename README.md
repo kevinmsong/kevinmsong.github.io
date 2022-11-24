@@ -8,8 +8,8 @@
 - evolutionary biology
 - skateboarding
 - table tennis
-- violin
 - games
+- violin
 
 ### [NeuralNetworks](https://github.com/kevinmsong/NeuralNetworks)
 
