@@ -9,8 +9,8 @@
 - skateboarding
 - table tennis
 - crossfit
-- hiking
 - games
+- hiking
 - violin
 
 ### [NeuralNetworks](https://github.com/kevinmsong/NeuralNetworks)
