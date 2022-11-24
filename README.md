@@ -6,8 +6,10 @@
 - programming (since 2008)
 - zen meditation
 - evolutionary biology
+- skateboarding
 - table tennis
 - violin
+- games
 
 ### [NeuralNetworks](https://github.com/kevinmsong/NeuralNetworks)
 
