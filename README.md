@@ -8,6 +8,8 @@
 - evolutionary biology
 - skateboarding
 - table tennis
+- crossfit
+- hiking
 - games
 - violin
 
