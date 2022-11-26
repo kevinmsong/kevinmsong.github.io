@@ -6,10 +6,9 @@
 - programming (since 2008)
 - zen meditation
 - evolutionary biology
-- table tennis
-- skateboarding
 - crossfit
 - games
+- sports
 - hiking
 - violin
 
