@@ -13,8 +13,8 @@ Source: [vexilografia](https://www.deviantart.com/vexilografia)
 - evolutionary biology
 - vexillology
 - modern art
-- games
 - crossfit
+- games
 - sports
 - hiking
 - violin
