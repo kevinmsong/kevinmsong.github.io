@@ -6,6 +6,7 @@
 - programming (since 2008)
 - zen meditation
 - evolutionary biology
+- vexillology
 - crossfit
 - games
 - sports
