@@ -1,7 +1,7 @@
 # Kevin Song
 ## Software Architect
 
-![Family Flag](flag.png)
+![Banner Flags](banner_flags_redux.png)
 
 ### Interests
 
