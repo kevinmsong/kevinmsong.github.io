@@ -13,11 +13,9 @@ Source: [vexilografia](https://www.deviantart.com/vexilografia)
 - evolutionary biology
 - vexillology
 - modern art
-- esports/card/board games
+- games
 - crossfit
-- table tennis
-- skateboarding
-- basketball
+- sports
 - hiking
 - violin
 
