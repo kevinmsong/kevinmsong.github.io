@@ -4,7 +4,7 @@
 
 ![Banner Flags](banner_flags_redux.png)
 
-Source: [vexilografia](deviantart.com/vexilografia)
+Source: [vexilografia](https://www.deviantart.com/vexilografia)
 
 ### Interests
 
