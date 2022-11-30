@@ -13,7 +13,7 @@ Source: [vexilografia](https://www.deviantart.com/vexilografia)
 - evolutionary biology
 - vexillology
 - crossfit
-- games
+- esports / card / board games
 - sports
 - hiking
 - violin
