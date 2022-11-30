@@ -1,6 +1,8 @@
 # Kevin Song
 ## Software Architect
 
+![Family Flag](flag.png)
+
 ### Interests
 
 - programming (since 2008)
