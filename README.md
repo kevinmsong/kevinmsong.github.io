@@ -12,9 +12,11 @@ Source: [vexilografia](https://www.deviantart.com/vexilografia)
 - zen meditation
 - evolutionary biology
 - vexillology
+- esports/card/board games
 - crossfit
-- esports / card / board games
-- sports
+- table tennis
+- skateboarding
+- basketball
 - hiking
 - violin
 
