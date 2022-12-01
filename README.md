@@ -12,6 +12,7 @@ Source: [vexilografia](https://www.deviantart.com/vexilografia)
 - zen meditation
 - evolutionary biology
 - vexillology
+- social dance
 - modern art
 - crossfit
 - games
