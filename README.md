@@ -13,6 +13,8 @@ Source: [vexilografia](https://www.deviantart.com/vexilografia)
 - evolutionary biology
 - neuroscience
 - astronomy
+- history
+- anthropology
 - vexillology
 - social dance
 - modern art
