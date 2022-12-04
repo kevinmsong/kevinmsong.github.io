@@ -14,6 +14,8 @@ Source: [vexilografia](https://www.deviantart.com/vexilografia)
 - neuroscience
 - astronomy
 - history
+- economics
+- political science
 - anthropology
 - vexillology
 - social dance
