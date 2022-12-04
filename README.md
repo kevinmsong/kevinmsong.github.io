@@ -6,6 +6,9 @@
 
 Source: [vexilografia](https://www.deviantart.com/vexilografia)
 
+> "Purpose has no place in biology, but history has no meaning without it."
+- George Kubler, The Shape of Time, 1982, p. 8
+
 ### Interests
 
 - programming (since 2008)
