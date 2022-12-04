@@ -17,7 +17,6 @@ Source: [vexilografia](https://www.deviantart.com/vexilografia)
 - history
 - economics
 - political science
-- anthropology
 - vexillology
 - social dance
 - modern art
