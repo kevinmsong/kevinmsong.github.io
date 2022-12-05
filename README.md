@@ -9,7 +9,6 @@
 - evolutionary biology
 - human longevity
 - social dance
-- crossfit
 - games
 - sports
 - hiking
