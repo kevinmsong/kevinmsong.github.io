@@ -13,6 +13,7 @@
 - sports
 - hiking
 - violin
+- lifelong learning
 
 ### [NeuralNetworks](https://github.com/kevinmsong/NeuralNetworks)
 
