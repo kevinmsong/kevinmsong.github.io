@@ -3,6 +3,7 @@
 ## Software Architect
 
 > "The most valuable thing about learning is to know doubt. With small doubt comes small progress. With great doubt comes great progress. Doubt is the opportunity of enlightenment."
+
 &mdash; Chen Baisha, 1428-1500
 
 ### Interests
