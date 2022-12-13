@@ -8,6 +8,7 @@
 - zen meditation
 - evolutionary biology
 - human longevity
+- informatics
 - social dance
 - crossfit
 - games
