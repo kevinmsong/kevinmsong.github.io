@@ -1,6 +1,6 @@
 # Kevin Song
 
-## Software Architect
+## Consultant Data Scientist
 
 > "The most valuable thing about learning is to know doubt. With small doubt comes small progress. With great doubt comes great progress. Doubt is the opportunity of enlightenment."
 
