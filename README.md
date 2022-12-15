@@ -13,6 +13,7 @@
 - evolutionary biology
 - human longevity
 - informatics
+- reading
 - social dance
 - crossfit
 - games
