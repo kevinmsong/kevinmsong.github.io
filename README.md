@@ -12,6 +12,7 @@
 
 - programming (since 2008)
 - zen meditation
+- daoism
 - evolutionary biology
 - human longevity
 - informatics
