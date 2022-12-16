@@ -15,6 +15,7 @@
 - pjilosophical daoism
 - evolutionary biology
 - human longevity
+- botany
 - informatics
 - reading
 - social dance
