@@ -12,7 +12,7 @@
 
 - programming (since 2008)
 - zen meditation
-- pjilosophical daoism
+- philosophical daoism
 - evolutionary biology
 - human longevity
 - botany
