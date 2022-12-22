@@ -8,19 +8,6 @@
 
 &mdash; Chen Baisha, 1428-1500
 
-### Interests
-
-- programming (since 2008)
-- zen meditation
-- human longevity
-- informatics
-- reading
-- crossfit
-- games
-- sports
-- violin
-- lifelong learning
-
 ### [NeuralNetworks](https://github.com/kevinmsong/NeuralNetworks)
 
 - AdaGradOptimizer contains code implementing a custom AdaGrad neural network gradient descent optimizer from scratch.
