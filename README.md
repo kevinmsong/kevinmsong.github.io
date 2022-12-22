@@ -12,17 +12,12 @@
 
 - programming (since 2008)
 - zen meditation
-- philosophical daoism
-- evolutionary biology
 - human longevity
-- botany
 - informatics
 - reading
-- social dance
 - crossfit
 - games
 - sports
-- hiking
 - violin
 - lifelong learning
 
