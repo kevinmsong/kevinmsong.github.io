@@ -1,6 +1,6 @@
 # Kevin Song
 
-## Consultant Data Scientist
+## Data Information Coordinator at UAB
 
 [LinkedIn](https://www.linkedin.com/in/kevinmsong)
 
