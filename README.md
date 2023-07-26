@@ -50,6 +50,7 @@
 
 - AutoencoderArt
 
-### [NewsAPI](https://github.com/kevinmsong/NewsAPI)
+### [ApplicationProgrammingInterfaces](https://github.com/kevinmsong/ApplicationProgrammingInterfaces)
 
 - NewsAPI contains a Python script that aggregates the top 20 news titles from sources across 7 categories in over 50 countries.
+- QuoteAPI contains a Python script that provides a quote about happiness from a famous person throughout history.
