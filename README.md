@@ -1,9 +1,5 @@
 # Kevin Song
 
-> "The most valuable thing about learning is to know doubt. With small doubt comes small progress. With great doubt comes great progress. Doubt is the opportunity of enlightenment."
-
-&mdash; Chen Baisha, 1428-1500
-
 ### [NeuralNetworks](https://github.com/kevinmsong/NeuralNetworks)
 
 - AdaGradOptimizer contains code implementing a custom AdaGrad neural network gradient descent optimizer from scratch.
@@ -51,6 +47,8 @@
 - AutoencoderArt
 
 ### [ApplicationProgrammingInterfaces](https://github.com/kevinmsong/ApplicationProgrammingInterfaces)
-
+- HeartHistory contains a Python command line tool that queries the Art Institute of Chicago's API and displays a random artwork based on a search query.
+  
 - NewsAPI contains a Python script that aggregates the top 20 news titles from sources across 4 categories in over 50 countries.
+
 - QuoteAPI contains a Python script that provides a quote about happiness from famous people throughout history.
