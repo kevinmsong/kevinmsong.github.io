@@ -1,4 +1,5 @@
 # Kevin Song
+PhD Student in Bioinformatics at UAB
 
 ### [NeuralNetworks](https://github.com/kevinmsong/NeuralNetworks)
 
