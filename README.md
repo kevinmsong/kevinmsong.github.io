@@ -1,6 +1,13 @@
 # Kevin Song
 PhD Student in Bioinformatics at UAB
 
+### [AI Chatbot Tools](https://share.streamlit.io/user/kevinmsong)
+- [getGPT](https://github.com/kevinmsong/getGPT)
+
+- [MultiAgentDebateGPT](https://github.com/kevinmsong/MultiAgentDebateGPT)
+
+- [ReviewerGPT](https://github.com/kevinmsong/ReviewerGPT)
+
 ### [NeuralNetworks](https://github.com/kevinmsong/NeuralNetworks)
 
 - AdaGradOptimizer contains code implementing a custom AdaGrad neural network gradient descent optimizer from scratch.
@@ -55,8 +62,3 @@ PhD Student in Bioinformatics at UAB
 - QuoteAPI contains a Python script that provides a quote about happiness from famous people throughout history.
 
 - WhatShouldIReadNext contains a Python command line tool that searches for similar book recommendations based on a title or author query.
-
-### [AI Chatbot Tools](https://share.streamlit.io/user/kevinmsong)
-- [getGPT](https://github.com/kevinmsong/getGPT)
-- [MultiAgentDebateGPT](https://github.com/kevinmsong/MultiAgentDebateGPT)
-- [ReviewerGPT](https://github.com/kevinmsong/ReviewerGPT)
