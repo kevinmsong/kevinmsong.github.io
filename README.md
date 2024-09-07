@@ -4,6 +4,8 @@ PhD Student in Bioinformatics at UAB
 ### [AI Chatbot Tools](https://share.streamlit.io/user/kevinmsong)
 - [getGPT](https://github.com/kevinmsong/getGPT)
 
+- [JournalClubBot](https://github.com/kevinmsong/JournalClubBot) 
+
 - [MultiAgentDebateGPT](https://github.com/kevinmsong/MultiAgentDebateGPT)
 
 - [ReviewerGPT](https://github.com/kevinmsong/ReviewerGPT)
