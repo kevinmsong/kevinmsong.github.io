@@ -1,72 +1,46 @@
-# Kevin Song
-PhD Student in Bioinformatics at UAB
+# kevinmsong.github.io
 
-### [AI Chatbot Tools](https://share.streamlit.io/user/kevinmsong)
-- [getGPT](https://github.com/kevinmsong/getGPT)
+Personal GitHub Pages / portfolio index for [Kevin Song](https://github.com/kevinmsong) (PhD candidate, Biomedical Engineering / Bioinformatics, University of Alabama at Birmingham).
 
-- [JournalClubBot](https://github.com/kevinmsong/JournalClubBot) 
+## What this repo is
 
-- [MultiAgentDebateGPT](https://github.com/kevinmsong/MultiAgentDebateGPT)
+A lightweight landing README that links out to selected projects. For the richer profile presentation, see the [profile README](https://github.com/kevinmsong/kevinmsong).
 
-- [ReviewerGPT](https://github.com/kevinmsong/ReviewerGPT)
+## Selected links
 
-### [NeuralNetworks](https://github.com/kevinmsong/NeuralNetworks)
+### Research & scientific software
 
-- AdaGradOptimizer contains code implementing a custom AdaGrad neural network gradient descent optimizer from scratch.
+- [DeepDTA-iBAM](https://github.com/kevinmsong/DeepDTA-iBAM) — drug–target affinity with cross-attention interaction maps
+- [PharmacophoreCascade](https://github.com/kevinmsong/PharmacophoreCascade) — native peptide-contact pharmacophore screening cascade
+- [bindra](https://github.com/kevinmsong/bindra) — binding affinity models (pooled + iBAM attention)
+- [CellScope](https://github.com/kevinmsong/CellScope) — local fluorescence cell segmentation and morphology exports
+- [BioSynth](https://github.com/kevinmsong/BioSynth) — multi-agent therapeutic target / repurposing engine
+- [CardioXNet](https://github.com/kevinmsong/CardioXNet) — cardiovascular pathway discovery (NETS)
+- [GrantRx](https://github.com/kevinmsong/GrantRx) — offline NIH grant revision assistant
+- [CryptoChaos](https://github.com/kevinmsong/CryptoChaos) — passphrase-bound ML-KEM research artifact
+- [gtGMM](https://github.com/kevinmsong/gtGMM) — topological analysis of gene networks
 
-- LogisticRegression contains code for training a neural-network-based logistic regression classification model from scratch in PyTorch.
+### AI tools
 
-- MNIST contains code for implementing, training, and error-scoring a series of feedforward neural networks, in Keras, for recognizing handwritten MNIST digits (with a best macro average test F1 score of 97%).
+- [ScientificReviewer](https://github.com/kevinmsong/ScientificReviewer) — multi-expert Streamlit peer review
+- [getGPT](https://github.com/kevinmsong/getGPT) — Open Targets + PubMed disease gene/target retrieval
+- [JournalClubBot](https://github.com/kevinmsong/JournalClubBot) — journal-club PDF analyzer
+- [MultiAgentDebateGPT](https://github.com/kevinmsong/MultiAgentDebateGPT) — multi-agent GPT debate
+- [CustomGPT](https://github.com/kevinmsong/CustomGPT) — password-gated OpenAI chat
+- [NotionAgent](https://github.com/kevinmsong/NotionAgent) — memoryless Notion page Q&A (Gemini)
+- [JumpSheetGPT](https://github.com/kevinmsong/JumpSheetGPT) — PubMed → jump-sheet HTML
+- [MedPrepLibrary](https://github.com/kevinmsong/MedPrepLibrary) — USMLE Step 1 prep tools
 
-- TranscriptionFactorBinding contains code for implementing and training a neural network to predict the presence/absence of transcription factor binding sites in DNA fragments.
+### Quant / markets
 
-### [MachineLearning](https://github.com/kevinmsong/MachineLearning)
+- [vinci-terminal](https://github.com/kevinmsong/vinci-terminal) — API-first market data workstation
+- [wailmer](https://github.com/kevinmsong/wailmer) — weekly long-only S&P 500 research platform
+- [stockdashboard](https://github.com/kevinmsong/stockdashboard) / [fxdashboard](https://github.com/kevinmsong/fxdashboard) — Streamlit terminals
 
-- Alzheimers contains a data science project for predicting Alzheimer's disease status from RNA expression data (with 5-fold cross-validation and 92% macro average F1 score), across 25k genes, for a small sample of postmortem human and mouse brain tissue.
+### Learning / games
 
-- RealEstatePrediction contains an encoded XGBoost regression model (trained with randomized grid search and 5-fold cross-validation) and an IPython notebook that implements code for predicting 2021 estimated full cash values from 2016-2020 housing data in the Tuscon, Arizona real estate market (test root mean squared error of $8,568 for a dataset of 101,661 homes).
+- [MachineLearning](https://github.com/kevinmsong/MachineLearning) · [NeuralNetworks](https://github.com/kevinmsong/NeuralNetworks) · [CodingProblems](https://github.com/kevinmsong/CodingProblems)
+- [PyGames](https://github.com/kevinmsong/PyGames) · [MedTetris](https://github.com/kevinmsong/MedTetris) · [Artwork](https://github.com/kevinmsong/Artwork)
+- [ApplicationProgrammingInterfaces](https://github.com/kevinmsong/ApplicationProgrammingInterfaces)
 
-- AnthemMiniProject contains a data science project for predicting the chance of insurance policy renewals with XGBoost.
-
-- CostEffectiveMaintenance contains code that exhibits data wrangling/feature engineering skills, and trains an XGBoost classifier to determine whether corporate truck maintenances from a real-life dataset (hosted on a MySQL server) are either cost-effective or cost-ineffective.
-
-- KNearestNeighbors contains code that implements, from scratch, a two-dimensional k-nearest neighbors regression algorithm.
-
-- LinearRegression contains code that implements a linear regression, from scratch, without using scikit-learn.
-
-- RetailDemandForecasting contains work on feature engineering and demand forecasting of weekly companywide sales with a 2011-2012 Walmart retail dataset.
-
-- SongAnalytica contains code that prototypes using a statistical model (XGBoost) to determine whether U.S. presidents' re-election chances are correlated with approval rating features. Inspired by the following [Wikipedia article](https://en.wikipedia.org/wiki/United_States_presidential_approval_rating).
-
-### [CodingProblems](https://github.com/kevinmsong/CodingProblems)
-
-- Alignment uses [Needleman-Wunsch](https://en.wikipedia.org/wiki/Needleman%E2%80%93Wunsch_algorithm) and [Smith-Waterman](https://en.wikipedia.org/wiki/Smith%E2%80%93Waterman_algorithm) algorithms to perform alignment of genetic sequences.
-
-- MedianSortedArray finds the median of two sorted arrays with O(log (m+n)) time complexity.
-
-- PerfectSquare uses Newton's method to evaluate whether an integer is a perfect square.
-
-### [PyGames](https://github.com/kevinmsong/PyGames)
-
-- ConnectFour
-
-- FlappyFrogger
-
-### [Artwork](https://github.com/kevinmsong/Artwork)
-
-- AutoencoderArt
-
-### [ApplicationProgrammingInterfaces](https://github.com/kevinmsong/ApplicationProgrammingInterfaces)
-- HeartHistory contains a Python command line tool that queries the Art Institute of Chicago's API to display a random work of art.
-
-- `pip install hearthistory`
-
-- [hearthistory.streamlit.app](https://hearthistory.streamlit.app)
-
-- NewsAPI contains a Python script that aggregates the top 20 news titles from sources across 4 categories in over 50 countries.
-
-- [News-Feed.net](http://www.news-feed.net)
- 
-- QuoteAPI contains a Python script that provides a quote about happiness from famous people throughout history.
-
-- WhatShouldIReadNext contains a Python command line tool that searches for similar book recommendations based on a title or author query.
+Browse all repositories: https://github.com/kevinmsong?tab=repositories
